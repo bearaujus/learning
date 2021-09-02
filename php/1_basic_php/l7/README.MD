@@ -1,9 +1,10 @@
-# Learning 7 : Database & MYSQL
+# Learning 7 : PHP Mysql Database - Read
 > Achieved Skills :
 + Making a Database Connection
 + MYSQLI in PHP
 + Analyzing Query Error
 + Using PHP Function 'require'
++ Printing Data From Database
 
 # Credit
 + Linkedin : [https://www.linkedin.com/in/bearaujus/](https://www.linkedin.com/in/bearaujus/)
