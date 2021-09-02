@@ -1,4 +1,4 @@
-# Learning 7 : PHP MYSQL Database - Read
+# Learning 7 : PHP MYSQL Database - Read Data
 > Achieved Skills :
 + Read Data From Database
 + Making a Database Connection
