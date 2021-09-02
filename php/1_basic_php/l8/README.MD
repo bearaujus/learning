@@ -1,4 +1,4 @@
-# Learning 8 : PHP MYSQL Database - Insert, Delete
+# Learning 8 : PHP MYSQL Database - Insert & Delete Data
 > Achieved Skills :
 + Insert Data To Database
 + Delete Data From Database
