@@ -43,7 +43,6 @@ if ($x == 10) {
 }
 
 // else
-
 if ($x < 10) {
     echo "x is lower than 10 <br>";
 } else {
