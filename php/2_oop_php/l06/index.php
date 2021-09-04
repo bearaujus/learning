@@ -15,9 +15,9 @@ class Mahasiswa
         $this->version = $version;
     }
 
-    public function getNrp()
+    public function getLabel()
     {
-        return $this->nrp;
+        return "$this->nrp - $this->nama";
     }
 }
 
@@ -36,7 +36,7 @@ class StaffLab extends Mahasiswa
 
     public function getStatus()
     {
-        $output = parent::getNrp() . " | " . ($this->isActive ? "Active Staff Lab" : "Inactive Staff Lab") . " | $this->desc";
+        $output = parent::getLabel() . " | " . ($this->isActive ? "Active Staff Lab" : "Inactive Staff Lab") . " | $this->desc";
         return $output;
     }
 
@@ -66,5 +66,5 @@ echo $staffLab1->getStatus();
 echo '<br>';
 
 // Calling Function From Parrent Class
-echo $staffLab1->getNrp();
+echo $staffLab1->getLabel();
 echo '<br>';
