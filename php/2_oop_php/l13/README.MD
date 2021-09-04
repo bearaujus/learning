@@ -1,6 +1,8 @@
-# Learning 13 : Autoloading
+# Learning 13 : Autoloading & Namespaces
 > Achieved Skills :
 + Using Class Autoloading
++ Using Namespaces
++ Alliasing Namespace
 
 # Credit
 + Linkedin : [https://www.linkedin.com/in/bearaujus/](https://www.linkedin.com/in/bearaujus/)
