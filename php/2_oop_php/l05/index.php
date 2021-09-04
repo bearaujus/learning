@@ -39,6 +39,7 @@ class PrintMahasiswa
 
 $mahasiswaPrintFunc = new PrintMahasiswa();
 
+// Instanstiation of Child Class
 $staffLab1 = new StaffLab('1773031', 'Haryo Bagas Assyafah', 'Sistem Informasi');
 echo $staffLab1->getStatus();
 echo '<br>';
