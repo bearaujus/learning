@@ -3,6 +3,7 @@
 + Class as Parent
 + Class as Child
 + Implementing Extends in a Class
++ Instanstiation of Child Class
 
 # Credit
 + Linkedin : [https://www.linkedin.com/in/bearaujus/](https://www.linkedin.com/in/bearaujus/)
