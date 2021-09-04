@@ -1,7 +1,7 @@
 # Learning 13 : Autoloading & Namespaces
 > Achieved Skills :
-+ Using Class Autoloading
-+ Using Namespaces
++ Class Autoloading
++ Namespaces
 + Alliasing Namespace
 
 # Credit
