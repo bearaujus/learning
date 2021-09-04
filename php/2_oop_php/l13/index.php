@@ -10,7 +10,6 @@ echo $apple->getFruitName() . " | " . $apple->eat() . '<br>';
 
 $banana = new Banana();
 echo $banana->getFruitName() . " | " . $banana->eat() . '<br>';
-// $user = new User();
 
 $user = new User();
 echo $user->getInfo();
