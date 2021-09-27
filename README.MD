@@ -2,7 +2,7 @@
 This project is based on my study progress. The purposes of this repository is to keep my study progress tracked.
 
 ### PHP
-> Link : [https://github.com/bearaujus/learning/tree/main/php/1_basic_php](https://github.com/bearaujus/learning/tree/main/php/1_basic_php)
+> Link : [https://github.com/bearaujus/learning/tree/main/php](https://github.com/bearaujus/learning/tree/main/php)
 ---
 
 # Credit
